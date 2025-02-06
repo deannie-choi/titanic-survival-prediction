@@ -176,5 +176,5 @@ __pycache__/
 *.pyo
 .DS_Store
 models/
-submissions/
+notebooks/.ipynb_checkpoints
 >>>>>>> 49c2e68 (Initial commit: Titanic Surviaval Prediction project)
