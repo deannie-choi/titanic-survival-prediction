@@ -8,16 +8,16 @@ The goal is to predict whether a passenger survived or not based on attributes s
 To develop a classification model that predicts survival outcomes of Titanic passengers using data preprocessing, exploratory data analysis (EDA), and XGBoost classification.
 
 ## 📁 Project Structure
-titanic-survival-prediction/
-│
-├── Data/                  # Raw data files (train.csv, test.csv)
-├── notebooks/             # Jupyter Notebooks for EDA and modeling
-│   ├── 01_eda_preprocessing.ipynb
-│   └── 02_model_training.ipynb
-├── models/                # Saved model files (optional)
-├── outputs/               # submission.csv for Kaggle
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
+
+    titanic-survival-prediction/
+    ├── Data/                  # Raw data files (train.csv, test.csv)
+    ├── notebooks/             # Jupyter Notebooks for EDA and modeling
+    │   ├── 01_eda_preprocessing.ipynb
+    │   └── 02_model_training.ipynb
+    ├── models/                # Saved model files (optional)
+    ├── outputs/               # submission.csv for Kaggle
+    ├── requirements.txt       # Python dependencies
+    └── README.md              # Project documentation
 
 ## 📊 Features Used
 
