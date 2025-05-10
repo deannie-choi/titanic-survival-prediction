@@ -84,9 +84,8 @@ Plots:
 ```python
 ConfusionMatrixDisplay(confusion_matrix=cm).plot()
 ```
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/titanic-survival-prediction/main/images/confusion_matrix.png" alt="Confusion Matrix" width="500"/>
-</p>
+![image](https://github.com/user-attachments/assets/0785ca3d-ba03-43a3-9a40-b8ba9f69f7ac)
+
 
 ### Classification Report:
 ```
