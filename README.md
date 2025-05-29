@@ -43,11 +43,6 @@ EDA was used to examine patterns in survival rate.
 sns.barplot(x="Pclass", y="Survived", data=df)
 sns.barplot(x="Sex", y="Survived", data=df)
 ```
-
-Plots:
-- `pclass_survival.png` – Survival by class
-- `sex_survival.png` – Survival by gender
-
 ---
 
 ## 🛠️ 4. Preprocessing Pipeline
